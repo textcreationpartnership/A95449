@@ -1,0 +1,168 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Two letters, the one, from the right honorable the Lord Major, Aldermen, &amp; Commons of the City of London in Common-Councell assembled, to his Excellency Sir Thomas Fairfax, and his Councell of Warre. The other, from  his Excellency Sir Thomas Fairfax, to the Right Honourable the Lord Major, Aldermen, and Commons of the City of London in Common-Councell assembled.</title>
+            <author>City of London (England). Court of Common Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95449</idno>
+            <idno type="STC">Wing T3480</idno>
+            <idno type="STC">Thomason E401_7</idno>
+            <idno type="STC">ESTC R201105</idno>
+            <idno type="EEBO-CITATION">99861667</idno>
+            <idno type="PROQUEST">99861667</idno>
+            <idno type="VID">160416</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95449)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160416)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 63:E401[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Two letters, the one, from the right honorable the Lord Major, Aldermen, &amp; Commons of the City of London in Common-Councell assembled, to his Excellency Sir Thomas Fairfax, and his Councell of Warre. The other, from  his Excellency Sir Thomas Fairfax, to the Right Honourable the Lord Major, Aldermen, and Commons of the City of London in Common-Councell assembled.</title>
+                  <author>City of London (England). Court of Common Council.</author>
+                  <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+                  <author>England and Wales. Army. Council.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Richard Cotes,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The letter from the Lord Mayor, etc. states "that the City Militia are withdrawing from all Forts on the River"--Thomason Catalogue.</note>
+                  <note>Annotation on Thomason copy: "Aug: 6th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160416:1" rendition="simple:additions"/>
+            <p>TWO LETTERS, The One, From the Right Honorable THE <hi>Lord Major, Aldermen,</hi> &amp; <hi>Commons</hi> OF THE City of <hi>London</hi> in Common-Councell aſſembled, To his Excellency Sir <hi>Thomas Fairfax,</hi> and his Councell of Warre. The Other, From His Excellency Sir <hi>THOMAS FAIRFAX,</hi> TO THE Right Honourable the Lord Major, Aldermen, and Commons of the City of <hi>London</hi> in Common-councell aſſembled.</p>
+            <p>
+               <hi>London,</hi> Printed by <hi>Richard Cotes,</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letters">
+            <pb facs="tcp:160416:2"/>
+            <pb n="1" facs="tcp:160416:2"/>
+            <div type="letter">
+               <head>FOR HIS EXCELLENCY Sir <hi>THOMAS FAIRFAX,</hi> AND His Councell of Warre.</head>
+               <opener>
+                  <salute>Right Honorable,</salute>
+               </opener>
+               <p>
+                  <seg rend="decorInit">B</seg>Y thoſe of our Committee which came from you this day, wee underſtand your Excellencies and your Honorable Councell of Warre, their expecta<g ref="char:EOLhyphen"/>tion to be poſſeſſed of all Forts from <hi>Gile's</hi> Fort, and that to bee one, downe unto the River ſide, by ſix of the clocke this Evening. And
+<pb n="2" facs="tcp:160416:3"/>wee take notice for what reaſons your Excellency is led to inſiſt there<g ref="char:EOLhyphen"/>upon. For our parts that wee may manifeſt how ready wee are to com<g ref="char:EOLhyphen"/>ply with all things which may beget a good underſtanding, wee have rea<g ref="char:EOLhyphen"/>dily conſented thereunto, as farre as the Cognizance thereof belongs to this Court, and have given directi<g ref="char:EOLhyphen"/>ons accordingly to the Committee of the <hi>Militia</hi> for drawing off al For<g ref="char:EOLhyphen"/>ces and Ordnance; unto which work they doe now inſtantly apply them<g ref="char:EOLhyphen"/>ſelves, and we are confident your Ex<g ref="char:EOLhyphen"/>cellency will find performance accor<g ref="char:EOLhyphen"/>dingly. The Committee of Militia will alſo give Order for quitting ſuch Forts on <hi>Southwark</hi> ſide, as are not as yet in poſſeſſion of your Forces. And now next unto Almighty God
+<pb n="3" facs="tcp:160416:3"/>we doe relie upon your Excellencies honourable Word for our ſafety, and to be protected from all violence of the Souldiery.</p>
+               <closer>
+                  <dateline>
+                     <date>4 <hi>Auguſt,</hi> 1647.</date>
+                  </dateline>
+                  <signed>Michel.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb n="4" facs="tcp:160416:4"/>
+               <head>FOR THE RIGHT HONORABLE THE Lord Major, Aldermen, And Common-Councell of the Citie of LONDON.</head>
+               <opener>
+                  <salute>My Lord and Gentlemen,</salute>
+               </opener>
+               <p>
+                  <seg rend="decorInit">I</seg> Am very glad to find ſo ready a complyance in anſwer to my laſt deſire ſent to the Common-Councell, and have ac<g ref="char:EOLhyphen"/>cordingly given order for three Regiments, of Foot and two of
+<pb n="5" facs="tcp:160416:4"/>Horſe, to poſſeſſe thoſe Forts you men<g ref="char:EOLhyphen"/>tion in your laſt, and to lie thereabouts; I am with the reſt of the Army marched up to <hi>Hammer fini<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h</hi> in order to the ſecu<g ref="char:EOLhyphen"/>ritie of the Lords and Commons, who I ſuppoſe will to morrow ſit in Parliament, the preſerving of their priviledges and ſe<g ref="char:EOLhyphen"/>curing them from violence, that with free<g ref="char:EOLhyphen"/>dome they may ſit to diſcharge their truſts, hath been the cauſe of my neare approach to your Citie; And whereas you are plea<g ref="char:EOLhyphen"/>ſed to expreſſe your hopes of preſervati<g ref="char:EOLhyphen"/>on from violence, you may be confident nothing ſhall paſſe from this Army, but what ſhall bee for the ſafety of your City, and I doubt not, though ſome diſaffected perſons to the peace of this Kingdome have endeavored to beget a miſunderſtan<g ref="char:EOLhyphen"/>ding betweene this Army and the Citie, hoping thereby to imbroyle the King<g ref="char:EOLhyphen"/>dome in new troubles; yet that this Army will alwayes ſo behave themſelves as to witneſſe to the world the integritie of their hearts, in having no other deſigne but the quiet and happy ſettlement of a
+<pb n="6" facs="tcp:160416:5"/>firme and laſting peace, wherein both the whole Kingdom, and your Citie in parti<g ref="char:EOLhyphen"/>cular will have cauſe to rejoyce in the goodneſſe of God; the accompliſhment whereof will truly glad the hearts of this Army, and in particular of</p>
+               <closer>
+                  <dateline>
+                     <date>
+                        <hi>Auguſt</hi> 5. 1647.</date>
+                  </dateline>
+                  <signed>Your moſt humble Servant <hi>T. Fairfax.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
